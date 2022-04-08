@@ -1,0 +1,9 @@
+{
+  "contest": 108,
+  "handle": "Chom",
+  "address": "0xf01Dd015Bc442d872275A79b9caE84A6ff9B2A27",
+  "risk": "2",
+  "title": "addNFTCollateral may be failed if there are too many Uniswap V3 LP Vault",
+  "issueId": 27,
+  "issueUrl": "https://github.com/code-423n4/2022-04-dualityfocus-findings/issues/27"
+}
