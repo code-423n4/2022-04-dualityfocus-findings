@@ -1,0 +1,9 @@
+{
+  "contest": 108,
+  "handle": "Sleepy",
+  "address": "0xa0B9905166C2773941CDBd287B3f1b6Ab76f96B1",
+  "risk": "2",
+  "title": "Improper Access Control",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2022-04-dualityfocus-findings/issues/25"
+}
