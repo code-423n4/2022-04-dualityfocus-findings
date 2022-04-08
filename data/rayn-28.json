@@ -1,0 +1,9 @@
+{
+  "contest": 108,
+  "handle": "rayn",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "2",
+  "title": "`Comptroller._setUniV3LpVault` will always cause in-use uniswapV3 positions to become stuck in `UniV3LpVault`",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2022-04-dualityfocus-findings/issues/28"
+}
