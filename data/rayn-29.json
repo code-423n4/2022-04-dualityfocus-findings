@@ -1,0 +1,9 @@
+{
+  "contest": 108,
+  "handle": "rayn",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "2",
+  "title": "Dysfunctional `CToken._acceptAdmin` due to lack of function to assign `pendingAdmin`",
+  "issueId": 29,
+  "issueUrl": "https://github.com/code-423n4/2022-04-dualityfocus-findings/issues/29"
+}
