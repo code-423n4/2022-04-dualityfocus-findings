@@ -1,0 +1,9 @@
+{
+  "contest": 108,
+  "handle": "hyh",
+  "address": "0x859e1Dfb430A7156fAEF11947F2FC2a3C34B733A",
+  "risk": "2",
+  "title": "UniV3LpVault swaps can be subject to sandwich attacks as total output can't be user controlled",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2022-04-dualityfocus-findings/issues/42"
+}
