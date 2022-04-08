@@ -1,0 +1,9 @@
+{
+  "contest": 108,
+  "handle": "bugwriter001",
+  "address": "0x71e6B570A4CE5ab1AcE7BDF3Bb1E642955cbdacB",
+  "risk": "2",
+  "title": "Re-entry possibility",
+  "issueId": 20,
+  "issueUrl": "https://github.com/code-423n4/2022-04-dualityfocus-findings/issues/20"
+}
