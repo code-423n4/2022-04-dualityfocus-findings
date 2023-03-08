@@ -1,3 +1,11 @@
+---
+sponsor: "Duality Focus"
+slug: "2022-04-dualityfocus"
+date: "2022-05-26"
+title: "Duality Focus contest"
+findings: "https://github.com/code-423n4/2022-04-dualityfocus-findings/issues"
+contest: 108
+---
 
 # Overview
 
